@@ -1,3 +1,3 @@
 alert(1);
-alert(2);
+alert('TEST');
 alert(3);
